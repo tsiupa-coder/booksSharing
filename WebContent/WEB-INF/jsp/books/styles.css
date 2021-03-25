@@ -1,0 +1,37 @@
+body {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5e2dcdeeebd9406af2c1f9b7/1585329087425-CTBR2O20HVWZO173PA4F/ke17ZwdGBToddI8pDm48kI19gPNUWZugHioVFJWlT3cUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnF7FHRMy_Nsbwq6zOdtiX-jEfXo6w5Mx1vuVDpEB1yizLxrX4sCFfvLq99Ndd3G8WQ/Gray+Background%402x.png?format=2500w');
+  font-style:italic;
+}
+h3 {
+  text-align: center;
+}
+input[type=text],input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
